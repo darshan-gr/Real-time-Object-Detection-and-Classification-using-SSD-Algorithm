@@ -69,12 +69,10 @@ You can specify the parameters listed in the `Object_detection.py` file by flagg
 
 #### Download a pre-trained network
 
-    * SSD300 trained on VOC0712 (newest PyTorch weights)
-      - (https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth)
-      
+   * SSD300 trained on VOC0712 (newest PyTorch weights)
+      - https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth
     * SSD300 trained on VOC0712 (original Caffe weights)
-      - (https://s3.amazonaws.com/amdegroot-models/ssd_300_VOC0712.pth)
-      
+      - https://s3.amazonaws.com/amdegroot-models/ssd_300_VOC0712.pth      
 
 ## References
 - Wei Liu, et al. "SSD: Single Shot MultiBox Detector." [ECCV2016]((http://arxiv.org/abs/1512.02325)).
