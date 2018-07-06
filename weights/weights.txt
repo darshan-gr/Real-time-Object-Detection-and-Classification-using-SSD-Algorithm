@@ -1,0 +1,1 @@
+Download the weights in the link mentioned in Training SSD and put in this directory.
