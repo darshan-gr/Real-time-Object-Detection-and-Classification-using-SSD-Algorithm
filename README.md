@@ -9,9 +9,6 @@ A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detecto
 - <a href='#datasets'>Datasets</a>
 - <a href='#training-ssd'>Train</a>
 - <a href='#evaluation'>Evaluate</a>
-- <a href='#performance'>Performance</a>
-- <a href='#demos'>Demos</a>
-- <a href='#todo'>Future Work</a>
 - <a href='#references'>Reference</a>
 
 &nbsp;
